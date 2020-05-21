@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA199
+F http://www.ti.com/lit/ds/symlink/ina199.pdf
+$ENDCMP
+#
+$CMP INA220
+F http://www.ti.com/lit/ds/symlink/ina220.pdf
+$ENDCMP
+#
+$CMP TP199
+F http://www.3peakic.com.cn/Public/Uploads/files/TP199A1-TP199A2.pdf
+$ENDCMP
+#
+#End Doc Library
