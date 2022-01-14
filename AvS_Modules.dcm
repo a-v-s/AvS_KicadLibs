@@ -1,3 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP MOD_RFID-HCD9883
+D CLRC663 Module from China
+K CLRC663, RC663, RFID
+$ENDCMP
+#
+$CMP MOD_RFID-RC522
+D MFRC522 Module from China
+K MFRC522, RC522, RFID
+$ENDCMP
+#
 #End Doc Library
