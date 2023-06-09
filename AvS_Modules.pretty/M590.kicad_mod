@@ -14,7 +14,7 @@
     (tstamp 14853259-40db-4a89-9709-2a3adc140df8)
   )
   (fp_rect (start -10.8 -13.8) (end 10.8 13.8)
-    (stroke (width 0.12) (type default)) (fill none) (layer "Edge.Cuts") (tstamp 23965c76-7bc1-4b9d-9969-7b62a09b9068))
+    (stroke (width 0.12) (type default)) (fill none) (layer "F.SilkS") (tstamp 23965c76-7bc1-4b9d-9969-7b62a09b9068))
   (pad "1" smd roundrect (at -10.6 -10.4) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (thermal_bridge_angle 45) (tstamp a5721ac8-dac8-4cc4-8752-868c4500be47))
   (pad "2" smd roundrect (at -10.6 -7.86) (size 2.286 1.524) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)

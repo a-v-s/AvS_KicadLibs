@@ -13,7 +13,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 87b11ce8-8eeb-4721-8a78-55fff619352a)
   )
-  (fp_rect (start -8.5 -8.5) (end 8.5 8.5)
+  (fp_rect (start -8.7 -8.7) (end 8.7 8.7)
     (stroke (width 0.12) (type solid)) (fill none) (layer "F.SilkS") (tstamp 57309ff9-8546-4d55-a2aa-b4ca5c16a24f))
   (fp_rect (start -8 -8) (end 8 8)
     (stroke (width 0.12) (type solid)) (fill none) (layer "F.SilkS") (tstamp 41b8acb3-2993-4699-84e7-bfef429b6e20))
